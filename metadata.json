@@ -1,0 +1,6 @@
+{
+  "name": "TecniRed",
+  "description": "Marketplace y directorio de servicios técnicos locales con cotizaciones, reputación multicriterio y pagos integrados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
